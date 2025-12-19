@@ -1,0 +1,15 @@
+{
+  "model_name": "unsloth/llama-3.1-8b-instruct-unsloth-bnb-4bit",
+  "model_display_name": "My_Model_1219",
+  "data_path": "train_data.jsonl",
+  "output_dir": "./models_trained/My_Model_1219_20251219_220753",
+  "epochs": 1,
+  "batch_size": 1,
+  "lora_r": 8,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "grad_accum": 8,
+  "max_seq_length": 2048,
+  "max_examples": null,
+  "timestamp": "20251219_220753"
+}
