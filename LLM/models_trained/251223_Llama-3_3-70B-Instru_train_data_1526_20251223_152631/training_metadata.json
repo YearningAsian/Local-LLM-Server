@@ -1,0 +1,16 @@
+{
+  "model_name": "unsloth/Llama-3.3-70B-Instruct-bnb-4bit",
+  "model_display_name": "251223_Llama-3.3-70B-Instru_train_data_1526",
+  "data_path": "train_data.jsonl",
+  "output_dir": "./models_trained/251223_Llama-3_3-70B-Instru_train_data_1526_20251223_152631",
+  "epochs": 1,
+  "batch_size": 1,
+  "lora_r": 8,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "grad_accum": 8,
+  "max_seq_length": 2048,
+  "max_examples": null,
+  "timestamp": "20251223_152631",
+  "selected_gpu": 0
+}
