@@ -1,0 +1,1 @@
+{"epoch": 1.0, "total_epochs": 1, "step": 1, "total_steps": 1, "loss": 0, "learning_rate": 0, "elapsed_time": 84, "eta_seconds": 0, "samples_per_second": 0, "gpu_memory_used_gb": 3.3, "gpu_memory_total_gb": 22.49, "loss_history": [{"step": 1, "loss": 15.6932}]}
